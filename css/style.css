@@ -862,7 +862,7 @@ section.galeria .slick-slide:focus {
   display: none;
 }
 
-.slick-dots {
+/* .slick-dots {
   bottom: -30px;
 }
 
@@ -875,7 +875,7 @@ section.galeria .slick-dots li button:before {
 
 section.galeria .slick-dots li.slick-active button:before {
   opacity: 1;
-}
+} */
 
 section.galeria .anim-galeria path {
   stroke: var(--color-3);
